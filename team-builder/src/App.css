@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.edit_btn{
+  color: royalblue;
+  font-size: 1.5rem;
+  padding: 1%;
+  margin: 3%;
+}
 
 @keyframes App-logo-spin {
   from {
